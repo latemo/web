@@ -3,5 +3,8 @@ first commit
 secont commit
 
 세번째 커밋
+<<<<<<< HEAD
 
 네번째 커밋
+=======
+>>>>>>> b8db0effcae9f9476120efc6998d247a83655265
